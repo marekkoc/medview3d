@@ -53,7 +53,7 @@ from medview3d_buttonsframe_qt import ButtonsFrame
 from medview3d_mpl import MPL
 
 #from mk_add_path_dropbox import MK_DROPBOX_DANE
-MK_DROPBOX_DANE = 'dane'
+MK_DROPBOX_DANE = '../dane'
 
 def on_key_event(event):
     print('you pressed %s' % event.key)
