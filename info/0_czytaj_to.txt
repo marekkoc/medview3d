@@ -1,0 +1,3 @@
+# 2025.04.04
+Obecna nazwa: medview3d
+Stara nazwa: viewer3d_tk
