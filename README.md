@@ -1,11 +1,13 @@
-# Analysis of "medview3D" program
+# Computer-aided analysis of paranasal sinus in CT images
 
 <table align="center">
   <tr><td><img src="figs/medview3d.png" alt="Results"></td></tr>
   <tr><td align="center"><i><span style="font-size:smaller;">Selected slice from 3D image</span></i></td></tr>
 </table>
 
-The medview3d.py program is a 3D image viewer with a graphical interface based on the Qt library. Here are its main functionalities:
+The aim of the project was to design and implement algorithms to quantify paranasal sinuses in CT images.
+
+The medview3d.py program is a Qt-based 3D visualization tool designed for computer-aided analysis of paranasal sinuses in CT images. Here are its main functionalities:
 
 1. **Loading 3D images**:
    - Support for NIFTI (.nii, .nii.gz), NumPy (.npy), and MATLAB (.mat) formats
