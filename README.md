@@ -54,3 +54,5 @@ The medview3d.py program is a Qt-based 3D visualization tool designed for comput
     - Separate classes for individual interface elements
 
 The program is designed for analyzing nasal-maxillary septum images, but can be used to view any 3D images in supported formats.
+
+Project between Lodz University of Technology, Lodz, Poland and University of Warmia and Mazury in Olsztyn, Olszytn, Poland.
